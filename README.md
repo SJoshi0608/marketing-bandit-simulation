@@ -1,1 +1,1 @@
-# marketing-bandit-simulation
+# Marketing simulation - MAB Model
